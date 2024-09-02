@@ -1,0 +1,100 @@
+/* The following Styles for the overall website. */
+
+body{
+    background: black;
+    color: white;
+}
+
+.center{
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .mini_bio{
+    color: white;
+  }
+
+  header nav a{
+    color: green;
+    font-size: 1.3em;
+    margin: 1em;
+  }
+
+  /* The following are customization for the "About Me" Page. */
+
+  .aboutme{
+    color: green
+  }
+
+.aboutme_banner{
+    width: 1000px;
+    height: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ .b1{
+    color: firebrick;
+}
+
+.b2{
+    color: firebrick;
+}
+
+.b3{
+    color: firebrick;
+}
+
+.b4{
+    color:firebrick
+}
+
+/* The following are customization for the "Resume" Page. */
+.resume{
+    color: green
+  }
+
+
+  #resume_block{
+    
+    box-sizing: border-box;
+    width: 900px;
+    padding: 30px;
+    border: 10px solid #eb7804;
+    margin: auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+/* The following are customization for the "Contact Me" Page. */
+
+.contactme{
+    color:green
+}
+
+.contact{
+    border-radius: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+#contact_box{
+    box-sizing: border-box;
+    width: 900px;
+    padding: 30px;
+    border: 10px solid #bb4141;
+    margin: auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color:rgb(71, 104, 72);
+}
+
+/* The following are customization for the "Testimonials/Recommendation" Page. */
+.reviews{
+    color:green
+}
